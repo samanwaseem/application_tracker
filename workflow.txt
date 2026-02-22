@@ -21,7 +21,28 @@ The user clicks 'Save'. The form closes and the new entry card is immediately ad
 4.  Updating or deleting an Entry: The user would click on the card in order to update the status or any other details. They can also delete the entry.
 
 
-Workflow 2
+Workflow 2 
+Resume Library
+
+Help users manage multiple resumes for different roles and track which resume was used for each application 
+
+1. Navigate to Resume Library
+    The user clicks ‘Resume Library’ from the sidebar/tab.
+2. Add/Upload Resume
+    The user clicks ‘+ Add Resume’ and uploads or saves a resume entry.
+    The user then chooses its category/track.
+3.Resume List View
+    The system shows a list of saved resumes with:
+        - Resume name
+        - Category/track
+        - Applications it has been used for
+        - Last updated date
+        - Buttons: View / Delete
+4. Link Resume to Application (from Add Application)
+    The user goes to ‘Add Application’ form and selects “Resume Used” from a dropdown of saved resumes.
+5. Search resumes 
+6. Resume Usage Tracking
+    Confirmation ‘Resume linked successfully.’
 
 Workflow 3
 
