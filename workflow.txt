@@ -44,7 +44,39 @@ Help users manage multiple resumes for different roles and track which resume wa
 6. Resume Usage Tracking
     Confirmation ‘Resume linked successfully.’
 
-Workflow 3
+Workflow 3 
+
+Track the interview process in detail (rounds, dates, notes, follow-up reminders) so users don’t lose information. Also visualize the success rate of interviews through percentage calculations through Offer or Rejection after Interview, data analytics of reaching the interview stage, etc.
+1. Navigate to Interview Tracker
+The user clicks “Interview Tracker” from the sidebar.
+2. Interview Dashboard View
+The system displays only applications in Interview stage, with cards showing:
+- Company, role
+- Interview date/time (if added)
+- Round
+- Status 
+3. Interview Details
+The user clicks an interview-stage application “Add Interview Details”.
+They fill:
+- Interview date & time
+- Round type
+- Mode (Onsite/Online) + link (optional)
+- Interviewer (optional)
+- Preparation checklist (optional)
+The user saves.
+4. Preparation Notes
+- The user adds notes like:
+- Topics to revise
+- Questions asked
+- Company-specific prep
+Saves.
+5. Post-Interview Update (optional)
+After the interview, the user updates the status.
+6. Follow-up Reminders (optional)
+The user sets a follow up date.
+The tracker highlights pending follow-ups.
+7. Confirmation
+
 
 
 
