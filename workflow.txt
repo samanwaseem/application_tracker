@@ -1,6 +1,25 @@
 Application and Placement Tracker
 
 Workflow 1
+Application Logging and Updating
+
+This would include basic CRUD operations. Enable users to organize all applications in one place with status columns, role categories, and deadline awareness.
+
+1.  Application Dashboard: The user logs in and is directed to the main tracker dashboard.
+2.  Adding a New Entry: The user clicks the '+ Add Application' button.
+3.  Data Input: A form appears requiring key details:
+Company Name
+Role (Links to Workflow 2 for the type of resume to be uploaded)
+Status
+Salary
+Job Type 
+Location
+URL
+Deadline
+Application Date
+The user clicks 'Save'. The form closes and the new entry card is immediately added to the dashboard view in the appropriate status column.
+4.  Updating or deleting an Entry: The user would click on the card in order to update the status or any other details. They can also delete the entry.
+
 
 Workflow 2
 
